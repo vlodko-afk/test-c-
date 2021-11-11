@@ -1,0 +1,12 @@
+﻿  UnitTest1.cpp
+C:\Users\Admin\Desktop\4 курс\ConsoleApplication1\UnitTest1\UnitTest1.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\Desktop\4 курс\ConsoleApplication1\UnitTest1\UnitTest1.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\Desktop\4 курс\ConsoleApplication1\UnitTest1\UnitTest1.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\Desktop\4 курс\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(1,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\Desktop\4 курс\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\Desktop\4 курс\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Admin\Desktop\4 курс\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(36,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\4 курс\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(40,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\4 курс\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(63,27): warning C4018: '<': signed/unsigned mismatch
+     Creating library C:\Users\Admin\Desktop\4 курс\ConsoleApplication1\Debug\UnitTest1.lib and object C:\Users\Admin\Desktop\4 курс\ConsoleApplication1\Debug\UnitTest1.exp
+  UnitTest1.vcxproj -> C:\Users\Admin\Desktop\4 курс\ConsoleApplication1\Debug\UnitTest1.dll
